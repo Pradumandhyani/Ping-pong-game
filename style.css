@@ -1,7 +1,11 @@
+body{
+background-color:black;
+}
 #container {
     position: relative;
     text-align: center;
     color: red;
+    background-color:black;
 }
 
 #ball {
